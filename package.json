@@ -1,0 +1,22 @@
+{
+  "name": "phpmvctemplate4b",
+  "version": "1.0.0",
+  "description": "no woman no cry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galihweb000haha/phpmvc-template-4b.git"
+  },
+  "author": "4b",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galihweb000haha/phpmvc-template-4b/issues"
+  },
+  "homepage": "https://github.com/galihweb000haha/phpmvc-template-4b#readme",
+  "dependencies": {
+    "izitoast": "^1.4.0"
+  }
+}
