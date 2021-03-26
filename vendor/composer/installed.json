@@ -1,0 +1,45 @@
+[
+    {
+        "name": "tegimus/php-izitoast",
+        "version": "v1.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/tegimus/php-izitoast.git",
+            "reference": "3ab0c9d00a4387259700117a7428c3984ca1b933"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/tegimus/php-izitoast/zipball/3ab0c9d00a4387259700117a7428c3984ca1b933",
+            "reference": "3ab0c9d00a4387259700117a7428c3984ca1b933",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "time": "2018-08-05T10:33:57+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Tegimus\\IziToast\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "GPL-3.0"
+        ],
+        "authors": [
+            {
+                "name": "Tegimus",
+                "email": "tegimus@gmail.com"
+            }
+        ],
+        "description": "A simple php wrapper for the iziToast javascript library",
+        "keywords": [
+            "izitoast",
+            "notification",
+            "popup"
+        ]
+    }
+]
