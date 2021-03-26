@@ -4,4 +4,4 @@ define('ROOT', str_replace("Public/index.php", "", $_SERVER["SCRIPT_FILENAME"]))
 // $root.= str_replace(basename($_SERVER['SCRIPT_NAME']), '', $_SERVER['SCRIPT_NAME']);
 // $root = rtrim($root, '/');
 // define('BASEURL', $root);
-require(ROOT . 'Config/intip.php');
+require(ROOT . 'Config/core.php');

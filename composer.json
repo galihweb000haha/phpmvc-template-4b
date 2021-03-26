@@ -1,0 +1,12 @@
+{
+    "name": "root/phpmvctemplate4b",
+    "require": {
+        "tegimus/php-izitoast": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "yu jin",
+            "email": "galih11120@gmail.com"
+        }
+    ]
+}
